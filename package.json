@@ -1,0 +1,26 @@
+{
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": ">=16.9.0",
+    "@formily/core": "2.2.2",
+    "@formily/react": "2.2.2",
+    "@formily/antd": "2.2.2",
+    "antd": "4.20.2",
+    "@ant-design/icons": "4.x",
+    "@types/react": ">=16.8.0",
+    "@types/react-dom": ">=16.8.0",
+    "react-dom": ">=16.9.0",
+    "react-is": ">=16.8.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
